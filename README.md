@@ -1406,6 +1406,7 @@ These services build a profile from everything you read. A local or self-hosted 
 - [🤖](#icons) [NewPipe](https://newpipe.net/) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.
 - [🤖](#icons) [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - FreeTube is an open source desktop YouTube player built with privacy in mind. (Uses Local RSS API or Invidious for backend).
+- [OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) [♻️](#icons) - Open source (AGPL-3.0) YouTube client for Windows, macOS, Linux and Android that needs no Google account, blocks ads and keeps subscriptions and history on your device (uses a built-in extractor, Invidious or Yattee Server for backend).
 - [🤖](#icons) [LibreTube](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 - [Yattee](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
 - [🤖](#icons) [Clipious](https://github.com/lamarios/clipious) [💀](#icons) Invidious client for android
